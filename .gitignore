@@ -1,0 +1,5 @@
+node_modules
+#parcel-bundler에서 자동으로 생성해주는 폴더이므로 밑에 두개의 폴더도 추가해준다.
+dist
+.cache
+.DS_Store
